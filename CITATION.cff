@@ -5,7 +5,7 @@ type: software
 version: 1.0.0
 date-released: 2026-09-14
 license: MIT
-repository-code: "https://github.com/<YOUR-USERNAME>/phishshield"
+repository-code: "https://github.com/elytingson/phishshield"
 authors:
-  - family-names: "<YOUR-LAST-NAME>"
-    given-names: "<YOUR-FIRST-NAME>"
+  - family-names: "TINGSON"
+    given-names: "CARLOS ELY"
